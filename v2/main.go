@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("version 2")
+	fmt.Println("version 2.0.1")
 	authorize.Authorize()
 	// logic
 }
